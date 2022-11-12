@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Basa_University": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable"
+    },
+    "Профиль 2": {
+      "commandName": "Project"
+    }
+  }
+}
